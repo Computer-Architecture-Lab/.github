@@ -1,5 +1,3 @@
-# .github
-
 <div align="center">
 
 <img src="https://soc.seoultech.ac.kr/images/CAL\_logo\_2.png" alt="CAL logo" height="90"/>
