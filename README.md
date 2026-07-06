@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://soc.seoultech.ac.kr/images/CAL\_logo\_2.png" alt="CAL logo" height="90"/>
+<img src="https://soc.seoultech.ac.kr/images/CAL_logo_2.png" alt="CAL logo" height="90"/>
 
 # Computer Architecture Laboratory (CAL)
 
