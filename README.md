@@ -43,10 +43,8 @@ Full project history: [soc.seoultech.ac.kr/Researches](https://soc.seoultech.ac.
 
 ## Selected Recent Publications
 
-* *BF16-to-BFP Conversion Architecture for Systolic Array Computation* — KCS, 2026
 * *WPU: A Pipelined WebAssembly Processing Unit for Embedded IoT Systems* — ASP-DAC, 2026
 * *An Accelerated Block Searching Approach in A\* for Autonomous Mobile Robots* — IEEE TCAS-I, 2025
-* *Real-Time True Wireless Stereo Wearing Detection Using a PPG Sensor with Edge AI* — Electronics, 2025
 * *A CRC Comparison-Based Screen Data Management for Energy Efficient VDI* — IEEE Access, 2025
 
 Full publication list: [soc.seoultech.ac.kr](https://soc.seoultech.ac.kr/)
